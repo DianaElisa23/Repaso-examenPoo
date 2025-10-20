@@ -1,5 +1,4 @@
 package lab_lis_ordinario;
-
 import java.util.ArrayList;
 
 public class Main {
